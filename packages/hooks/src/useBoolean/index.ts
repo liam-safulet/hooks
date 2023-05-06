@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
 import useToggle from '../useToggle';
+alert('Attack!')
 
 export interface Actions {
   setTrue: () => void;
